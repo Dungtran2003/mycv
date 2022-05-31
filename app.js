@@ -13,9 +13,9 @@ menuIcon.addEventListener("click", function (e) {
 });
 
 var arrimg = [];
-arrimg[0] = "../src/images/full.png";
-arrimg[1] = "../src/images/2.png";
-arrimg[2] = "../src/images/7.png";
+arrimg[0] = "src/images/full.png";
+arrimg[1] = "src/images/2.png";
+arrimg[2] = "src/images/7.png";
 
 var i = 0;
 var imgauto;
